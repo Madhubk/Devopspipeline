@@ -15,7 +15,7 @@ namespace MVCPipeline.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Welcome to 20cube";
+            ViewBag.Message = "Welcome to 20cube data";
 
             return View();
         }
