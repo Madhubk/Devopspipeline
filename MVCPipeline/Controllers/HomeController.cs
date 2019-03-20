@@ -15,7 +15,7 @@ namespace MVCPipeline.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description MVC page.";
+            ViewBag.Message = "Welcome to 20cube";
 
             return View();
         }
